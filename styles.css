@@ -1,0 +1,116 @@
+body {
+  font-family: Georgia;
+  font-size: 24px; 
+  background-color: #fff;
+}
+
+h1 {
+  margin-top: 50px;
+}
+
+h2 {
+  margin-top: 80px;
+}
+
+p {
+  line-height: 150%;
+}
+
+a {
+  color: #7777dd;
+}
+
+a:hover {
+  color: #eeaadd;
+  transition: all .4s ease;
+  -webkit-transition: all .4s ease;
+}
+
+ul {
+  line-height: 30px;
+  list-style-type: square;
+}
+
+li {
+  margin: 0px 0px 22px 0px;;
+}
+
+
+blockquote {
+  font-size: 30px;
+  font-weight: normal;
+  font-style: italic;
+  margin: 80px 0px;
+  padding: 15px 40px 0px; 40px;
+  background-color: #eee;
+  border-left: 15px solid #9999dd;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+#quote-author {
+  font-size: 25px;
+  text-align: right;
+  font-weight: normal;
+  font-style: normal;
+}
+
+.subheading {
+  font-size: 40px;
+  text-decoration: underline;
+  text-decoration-color: #eeaadd;
+  text-underline-offset: 5px;
+}
+
+#tribute-info {
+  margin: 50px auto;
+  max-width: 1000px;
+}
+
+#img-caption {
+  margin: 20px 0px;;
+  text-align: center;
+}
+
+#title {
+  text-align: center;
+  font-size: 70px;
+  font-weight: bold;
+  text-decoration: underline;
+  text-decoration-color: #eeaadd;
+  text-underline-offset: 10px;
+  text-decoration-style: wavy;
+  text-decoration-thickness: auto;
+}
+
+#subtitle {
+  text-align: center;
+  font-size: 30px;
+  font-weight: semibold;
+}
+
+#img-div {
+  background: #eee;
+  margin: 0;
+  padding: 30px 0px 15px 0px;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+}
+
+#main {
+  margin: 0;
+}
+
+#footer {
+  padding: 50px 0px;
+  background-color: #eee;
+  text-align: center;
+}
